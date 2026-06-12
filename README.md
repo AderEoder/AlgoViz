@@ -4,7 +4,7 @@
 
 AlgoViz 是一個純前端打造的互動式學習平台，旨在將枯燥的資料結構與演算法，轉化為直覺、動態且充滿樂趣的視覺化體驗。無論是初學者想要理解基礎概念，還是老手想要複習邏輯，都能在這裡找到最沉浸的學習方式。
 
-🔗 **線上預覽 (Live Demo)**: `[這裡填寫你的 Vercel 或 GitHub Pages 網址]`
+🔗 **線上預覽 (Live Demo)**: https://adereoder.github.io/AlgoViz/
 
 ---
 
@@ -50,4 +50,4 @@ AlgoViz 是一個純前端打造的互動式學習平台，旨在將枯燥的資
 
 1. **Clone 專案**
    ```bash
-   git clone [https://github.com/你的帳號/algoviz.git](https://github.com/你的帳號/algoviz.git)
+   git clone https://github.com/adereoder/algoviz.git
