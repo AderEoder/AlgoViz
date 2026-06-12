@@ -50,4 +50,4 @@ AlgoViz 是一個純前端打造的互動式學習平台，旨在將枯燥的資
 
 1. **Clone 專案**
    ```bash
-   git clone [https://github.com/adereoder/AlgoViz.git](https://github.com/adereoder/AlgoViz.git)
+   git clone https://github.com/adereoder/AlgoViz.git
